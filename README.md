@@ -5,3 +5,5 @@ The final year project is done as component vice. The four components are
 2. Hypominia Analyzing
 3. Parkinson Symptoms detction using Voice
 4. Pre-Symptoms detection using a mobile phone
+
+My component is "Pre-Symptoms detection using a mobile phone", where I utilized the mobile phone gyroscope sensor to detect and analyze presymptom (Tremor) in Parkinson Disease. The sensor scors that are collected within the test is being send to a Support Vector Machine algorithm to detect Tremor | NoTremor. 
